@@ -1,0 +1,15 @@
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+J:\YandexDisk\GB\C#\Lesson1\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
